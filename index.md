@@ -2,7 +2,7 @@
 # Hello Guest!
 ---
 ## Welcome to ruka's OS201 page.
-[Image](44206861.png)
+![alt logo](https://raw.githubusercontent.com/rukamudrik/os201/master/44206861.png)
 ---
 ### Howdy Partner!
 Anda Siapa?

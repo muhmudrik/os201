@@ -8,5 +8,3 @@ permalink: /URLs/
 * [Course Material (Slides)](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Slides/)
 * [Demos (To try the code)](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
 * [Ubuntu - Windows Subsystem for Linux](https://ubuntu.com/wsl)
-
-[kembali](/)

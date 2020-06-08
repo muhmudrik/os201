@@ -1,8 +1,9 @@
----
-# Hello Guest!
-## Welcome to ruka's OS201 page
----
 
+# Hello Guest!
+---
+## Welcome to ruka's OS201 page.
+[Image](44206861.png)
+---
 ### Howdy Partner!
 Anda Siapa?
 > Mudrik disini, Saya senang anda mengunjungi _"mini website"_ saya. Saya seorang mahasiswa Fakultas Ilkom Komputer Universitas Indonesia, berjurusan Sistem Informasi 2018. Saat ini Saya sedang berada di Semester 4 dan tengah mengambil mata kuliah Operating System kelas B. Biasanya saya menghabiskan waktu dengan bermain game atau mempelajari sesuatu.
@@ -17,5 +18,5 @@ Mengapa ada ini?
 - [Learn Operating Systems](URLs/)
 
 Supported by Jekyll
-<Coded with Passion by ruka> 
-`✔ ruka approved`
+Coded with Passion by ruka
+_✔ ruka approved_

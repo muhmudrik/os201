@@ -1,0 +1,37 @@
+Script started on Mon 08 Jun 2020 06:21:37 PM WIB
+]0;muhammad.mudrik@badak: ~/OS/PRIBADI/os201/UASmuhammad.mudrik@badak:~/OS/PRIBADI/os201/UAS$ PS1="$ "
+$ echo $GitHubUser
+rukamudrik
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200608-182159-b24c-UAS/> 
+$ PS1="\$(eval \$PSTAMP)"
+200608-182205-48bf-UAS/> echo -e $CEKSAYA
+rukamudrik ZCZCSCRIPTSTART 200530-170940 rukamudrik 
+rukamudrik rukamudrik 200530-171014-3ecd-UAS/ 200530-171014 SEQOK SUMOK 3ecd9115 
+rukamudrik rukamudrik 200530-171023-76d0-UAS/ 200530-171023 SEQOK SUMOK 76d08e80 
+rukamudrik rukamudrik 200530-171031-cd6c-UAS/ 200530-171031 SEQOK SUMOK cd6cbee7 
+rukamudrik rukamudrik 200530-171039-83b6-UAS/ 200530-171039 SEQOK SUMOK 83b6bee9 
+rukamudrik ZCZCSCRIPTSTOP 200530-171046 SEQOK 
+
+200608-182214-ffc0-UAS/> echo -e $CEKSEBELA1
+rukamudrik ZCZCSCRIPTSTART 200601-211747 ryaasabsar 
+rukamudrik ryaasabsar 200601-211806-82e9-UAS/ 200601-211806 SEQOK SUMOK 82e9caa7 
+rukamudrik ryaasabsar 200601-211811-3334-UAS/ 200601-211811 SEQOK SUMOK 333444c2 
+rukamudrik ryaasabsar 200601-211818-752a-UAS/ 200601-211818 SEQOK SUMOK 752a1c5e 
+rukamudrik ryaasabsar 200601-211826-4a05-UAS/ 200601-211826 SEQOK SUMOK 4a057181 
+rukamudrik ZCZCSCRIPTSTOP 200601-211829 SEQOK 
+
+200608-182221-9606-UAS/> echo -e $CEKSEBELA2
+rukamudrik ZCZCSCRIPTSTART 200529-131641 Salman-Ahmad-N 
+rukamudrik Salman-Ahmad-N 200529-131705-41b2-salman.ahmad/ 200529-131705 SEQOK SUMOK 41b29514 
+rukamudrik Salman-Ahmad-N 200529-131712-8d2e-salman.ahmad/ 200529-131712 SEQOK SUMOK 8d2ee3d8 
+rukamudrik Salman-Ahmad-N 200529-131722-5262-salman.ahmad/ 200529-131722 SEQOK SUMOK 526216f6 
+rukamudrik Salman-Ahmad-N 200529-131731-2859-salman.ahmad/ 200529-131731 SEQOK SUMOK 28591edf 
+rukamudrik ZCZCSCRIPTSTOP 200529-131736 SEQOK 
+
+200608-182228-aa6b-UAS/> exit
+exit
+
+Script done on Mon 08 Jun 2020 06:22:33 PM WIB

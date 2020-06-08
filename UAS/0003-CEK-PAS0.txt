@@ -1,5 +1,5 @@
 Script started on Mon 08 Jun 2020 03:49:01 PM WIB
-]0;muhammad.mudrik@badak: ~/OS/PRIBADI/os201/UASmuhammad.mudrik@badak:~/OS/PRIBADI/os201/UAS$ PS1="$ "
+muhammad.mudrik@badak:~/OS/PRIBADI/os201/UAS$ PS1="$ "
 $ echo $GitHubUser
 rukamudrik
 $ echo $PSTAMP
@@ -18,8 +18,8 @@ You need a passphrase to unlock the secret key for
 user: "Muhammad Mudrik <rokamudrik@gmail.com>"
 4096-bit RSA key, ID 2B52C439, created 2020-05-28
 
-[?1049h[1;27r(B[m[4l[?7h[?1h=[39;49m[39;49m[H[2J(B[m[9;15H(0[0mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk(B(B[m[10;15H(0[0mx(B[0m Please enter the passphrase to unlock the secret key for the OpenPGP certificate:  (0[0mx(B(B[m[11;15H(0[0mx(B[0m "Muhammad Mudrik <rokamudrik@gmail.com>"[11;100H(0[0mx(B(B[m[12;15H(0[0mx(B[0m 4096-bit RSA key, ID 2B52C439,[12;100H(0[0mx(B(B[m[13;15H(0[0mx(B[0m created 2020-05-28.[13;100H(0[0mx(B(B[m[14;15H(0[0mx(B(B[m[14;100H(0[0mx(B(B[m[15;15H(0[0mx(B(B[m[15;100H(0[0mx(B(B[m[16;15H(0[0mx(B[0m Passphrase _______________________________________________________________________ (0[0mx(B(B[m[17;15H(0[0mx(B(B[m[17;100H(0[0mx(B(B[m[18;15H(0[0mx(B(B[m[18;28H(0[0m(B[0m<OK>[18;82H<Cancel>[18;100H(0[0mx(B(B[m[19;15H(0[0mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj(B(B[m[16;28H(0[0m(B(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m[27;1H[?1049l[?1l>
-200608-162028-9b78-UAS/> 
+
+200608-162028-9b78-UAS/>
 exit
 200608-162109-cecf-UAS/> exit
 exit
